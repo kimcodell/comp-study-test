@@ -1,0 +1,20 @@
+h1 {
+    margin: 1% auto;
+    width: 80%;
+}
+
+input, textarea{
+    display: block;
+    width: 80%;
+    margin: 1% auto;
+    margin-bottom: 2%;
+}
+.input_title {
+    height: 5vh;
+}
+.input_contents {
+    height: 60vh;
+}
+
+.submit_btn {
+}
